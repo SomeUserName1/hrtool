@@ -16,7 +16,7 @@ sudo make install
 4. Run   
 Form Bash:
 ```
-create_ap wlan0 wlan0 HR-SophiaX AMysteriousGenericPassPhraseLike'TheForgeIsComing'
+sudo create_ap wlan0 wlan0 HR-SophiaX AMysteriousGenericPassPhraseLike'TheForgeIsComing'
 ```
 
 ### Where to hook it up
